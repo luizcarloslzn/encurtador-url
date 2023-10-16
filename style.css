@@ -21,12 +21,13 @@ body {
     justify-content: center;
     flex-direction: column;
     width: 80%;
-    height: 300px;
+    max-width: 600px;
+    padding: 20px; 
 }
 
 .title {
-    font-size: 35px;
-    margin-bottom: 30px;
+    font-size: 3vw;
+    margin-bottom: 2vh;
     color: #827B7B;
     text-align: center;
 }
@@ -35,17 +36,18 @@ body {
     width: 100%;
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .input-url {
-    padding: 12px 20px;
+    padding: 2vw 4vw;
     text-align: center;
     outline: transparent;
-    width: 40%;
+    width: 80%;
     border-radius: 50px;
-    font-size: 20px;
+    font-size: 2vw;
     color: #1E272E;
-    margin-bottom: 40px;
+    margin-bottom: 2vh;
     background-image: url(/images/link.svg);
     background-repeat: no-repeat;
     background-position: left;
@@ -53,27 +55,37 @@ body {
 }
 
 .btn {
-    padding: 15px 20px;
-    width: 170px;
-    margin-left: 10px;
+    padding: 2vh 4vw;
+    width: 40%;
+    margin-left: 2vw;
     border-radius: 50px;
     background-color: #039BE5;
-    font-size: 20px;
+    font-size: 2vw;
     color: #1E272E;
-    margin-bottom: 300px;
+    margin-bottom: 10vh;
 }
 
 .btn:hover {
-    transition: .5s;
+    transition: 0.5s;
     background-color: #FAC800;
 }
 
 .logo {
-    margin-bottom: 70px;
+    margin-bottom: 5vh;
     text-align: center;
-    transform: scale(3);
+    transform: scale(1.5);
 }
 
 .footer {
     text-align: center;
+}
+
+@media (max-width: 768px) {
+    .box {
+        width: 90%;
+    }
+
+    .input-url {
+        width: 100%;
+    }
 }
