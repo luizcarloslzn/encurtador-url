@@ -14,6 +14,10 @@ deploy live in https://encurtador-url-short.vercel.app/
 
 ![image](https://github.com/luizcarloslzn/encurtador-url/assets/117320155/8983e19e-3542-4a8a-8e95-f96f331da1ca)
 
+## 📱 MOBILE
+
+![image](https://github.com/luizcarloslzn/encurtador-url/assets/117320155/38607d36-2e46-4eb5-a9be-999ea74e95ee)
+
 
 ### 🛠 Tecnologias Usadas
 
