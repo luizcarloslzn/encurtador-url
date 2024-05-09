@@ -25,3 +25,5 @@ deploy live in <link>
 - [x] HTML
 - [x] CSS
 - [x] JAVASCRIPT
+- [x] API - Rebrand.ly (https://api.rebrandly.com/v1/links)
+
