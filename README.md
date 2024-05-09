@@ -4,8 +4,6 @@
 
 deploy live in https://encurtador-url-short.vercel.app/
 
-deploy live in <link>
-
 ## 🎨 Screenshots
 
 ![image](https://github.com/luizcarloslzn/encurtador-url/assets/117320155/d64a0557-5e6d-41b1-b81c-643a479fc71f)
