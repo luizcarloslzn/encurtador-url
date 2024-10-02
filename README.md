@@ -1,4 +1,4 @@
-# URL SHORT - ENCURTADOR DE LINKS 
+# URL SHORT - Encurtador de links
 
 <p align='center'>Serviço criado para encurtar links</p>
 
